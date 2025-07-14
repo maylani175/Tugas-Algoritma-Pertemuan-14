@@ -29,7 +29,7 @@ Tujuan bagian ini adalah agar program tahu produk apa saja yang tersedia dan bis
 Kalau pengguna memasukkan 0, maka artinya mereka selesai belanja, dan program akan lanjut ke tahap berikutnya.
 
 6. Menampilkan Isi Keranjang dan Total Belanja
-   Setelah pengguna selesai memilih produk, program akan menampilkan isi keranjang (produk apa yang dibeli dan berapa          jumlahnya), Menghitung total belanja (dengan menjumlahkan semua harga produk yang dipilih × jumlahnya).
+   Setelah pengguna selesai memilih produk, program akan menampilkan isi keranjang (produk apa yang dibeli dan berapa jumlahnya), Menghitung total belanja (dengan menjumlahkan semua harga produk yang dipilih × jumlahnya).
    Contoh:
    Lipstik Matte x2 = Rp150.000
    Bedak Padat x1 = Rp65.000
