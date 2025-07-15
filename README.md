@@ -4,6 +4,12 @@ Program Toko Makeup Glowstore
 
 Ini adalah program yang dibuat untuk simulasi belanja di toko makeup. Jadi kamu bisa Lihat produk makeup apa saja yang tersedia, Memilih produk mana yang ingin dibeli, Menentukan berapa jumlahnya, Lalu melihat hasil belanja dan total uang yang harus dibayar.
 
+✅ Fitur yang tersedia
+✔️ Tampilkan produk
+✔️ Input kode produk dan jumlah
+✔️ Simpan ke keranjang
+✔️ Tampilkan total belanja
+
 1. Daftar Produk
    Di awal program akan menampilkan daftar produk yang tersedia, Tiap produk punya nomor/kode unik (1, 2, 3, dst.), Dan setiap produk juga punya nama dan harga.
 
